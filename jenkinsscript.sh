@@ -8,9 +8,6 @@ uptime -p
 touch {1..10}.txt
 #
 #
-ls
-#
-#
 echo "congratulations" > 1.txt
 echo "congratulations" > 2.txt
 echo "congratulations" > 3.txt
@@ -23,6 +20,5 @@ echo "congratulations" > 9.txt
 echo "congratulations" > 10.txt
 #
 #
-echo $GVC
 
 
